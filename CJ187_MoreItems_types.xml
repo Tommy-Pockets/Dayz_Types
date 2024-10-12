@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<types>
+   <type name="CJ_Battery9V_1">
+      <nominal>2</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>50</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="industrial" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_Battery9V_2">
+      <nominal>2</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>50</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="industrial" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_Battery9V_3">
+      <nominal>2</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>50</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="industrial" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_Battery9V_4">
+      <nominal>2</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>50</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="industrial" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_ButaneCanister">
+      <nominal>2</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>65</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_Sparkplug_Box_1">
+      <nominal>0</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="industrial" />
+   </type>
+   <type name="CJ_Sparkplug_Box_2">
+      <nominal>0</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="industrial" />
+   </type>
+   <type name="CJ_Cigarettes_1">
+      <nominal>2</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="containers" />
+      <tag name="industrial" />
+      <tag name="civilian" />
+      <tag name="fishing" />
+   </type>
+   <type name="CJ_Cigarettes_2">
+      <nominal>2</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="containers" />
+      <tag name="industrial" />
+      <tag name="civilian" />
+      <tag name="fishing" />
+   </type>
+   <type name="CJ_Cigarettes_3">
+      <nominal>2</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="containers" />
+      <tag name="industrial" />
+      <tag name="civilian" />
+      <tag name="fishing" />
+   </type>
+   <type name="CJ_Cigarettes_4">
+      <nominal>2</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="containers" />
+      <tag name="industrial" />
+      <tag name="civilian" />
+      <tag name="fishing" />
+   </type>
+   <type name="CJ_Cigarettes_5">
+      <nominal>2</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="containers" />
+      <tag name="industrial" />
+      <tag name="civilian" />
+      <tag name="fishing" />
+   </type>
+   <type name="CJ_AntiPestsSpray_1">
+      <nominal>1</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+      <category name="tools" />
+      <tag name="farm" />
+      <tag name="fishing" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_AntiPestsSpray_2">
+      <nominal>1</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+      <category name="tools" />
+      <tag name="farm" />
+      <tag name="fishing" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_AntiPestsSpray_3">
+      <nominal>1</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+      <category name="tools" />
+      <tag name="farm" />
+      <tag name="fishing" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_VanishSpray">
+      <nominal>6</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>3</min>
+      <quantmin>10</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+      <category name="tools" />
+      <tag name="fishing" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_FieldBandage_Small">
+      <nominal>5</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="Military" />
+   </type>
+   <type name="CJ_FieldBandage_Large">
+      <nominal>6</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>3</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="Military" />
+   </type>
+   <type name="CJ_FirstAidKit_Leather">
+      <nominal>2</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="containers" />
+      <tag name="Medic" />
+   </type>
+   <type name="CJ_FirstAidKit_Car">
+      <nominal>2</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="containers" />
+      <category name="tools" />
+      <tag name="Medic" />
+      <tag name="industrial" />
+   </type>
+   <type name="CJ_FirstAidKit_Grizzly">
+      <nominal>3</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="containers" />
+      <tag name="Medic" />
+   </type>
+   <type name="CJ_Flashlight_Yellow">
+      <nominal>2</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+   </type>
+   <type name="CJ_GardenLime_1">
+      <nominal>1</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>25</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="farm" />
+   </type>
+   <type name="CJ_GardenLime_2">
+      <nominal>1</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>25</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="farm" />
+   </type>
+   <type name="CJ_GardenLime_3">
+      <nominal>1</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>25</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="farm" />
+   </type>
+   <type name="CJ_GardenLime_4">
+      <nominal>1</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>25</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="farm" />
+   </type>
+   <type name="CJ_Pliers_Yellow">
+      <nominal>5</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>2</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="industrial" />
+      <tag name="farm" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_Pliers_Red">
+      <nominal>5</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>2</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="industrial" />
+      <tag name="farm" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_WalkieTalkie">
+      <nominal>1</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="civilian" />
+      <tag name="fishing" />
+   </type>
+   <type name="CJ_Motorola_T80_Yellow">
+      <nominal>1</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="civilian" />
+      <tag name="fishing" />
+   </type>
+   <type name="CJ_Motorola_T80_Red">
+      <nominal>1</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="civilian" />
+      <tag name="fishing" />
+   </type>
+   <type name="CJ_Motorola_T80_Blue">
+      <nominal>1</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="civilian" />
+      <tag name="fishing" />
+   </type>
+   <type name="CJ_Motorola_T80_Green">
+      <nominal>1</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="civilian" />
+      <tag name="fishing" />
+   </type>
+   <type name="CJ_Motorola_T80_Lime">
+      <nominal>1</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="civilian" />
+      <tag name="fishing" />
+   </type>
+   <type name="CJ_Motorola_T80_Grey">
+      <nominal>1</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="civilian" />
+      <tag name="fishing" />
+   </type>
+   <type name="CJ_Falcon3_Radio">
+      <nominal>1</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="Military" />
+   </type>
+   <type name="CJ_TacSatRadio_Black">
+      <nominal>1</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="Military" />
+   </type>
+   <type name="CJ_TacSatRadio_Green">
+      <nominal>1</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="Military" />
+   </type>
+   <type name="CJ_TacSatRadio_Tan">
+      <nominal>1</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="Military" />
+   </type>
+   <type name="CJ_MilBattery_Black">
+      <nominal>1</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>50</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="Military" />
+   </type>
+   <type name="CJ_MilBattery_Green">
+      <nominal>1</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>50</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="Military" />
+   </type>
+   <type name="CJ_MilBattery_Tan">
+      <nominal>1</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>0</min>
+      <quantmin>50</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="Military" />
+   </type>
+   <type name="CJ_SamSplint">
+      <nominal>5</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>2</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="Medic" />
+   </type>
+   <type name="CJ_Screwdriver_Red">
+      <nominal>5</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>2</min>
+      <quantmin>50</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="industrial" />
+      <tag name="farm" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_Toiletpaper">
+      <nominal>6</nominal>
+      <lifetime>14400</lifetime>
+      <restock>0</restock>
+      <min>3</min>
+      <quantmin>10</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="farm" />
+      <tag name="fishing" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_ToolsRepairKit">
+      <nominal>4</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>1</min>
+      <quantmin>10</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="farm" />
+      <tag name="fishing" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_WD40_Small">
+      <nominal>6</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>2</min>
+      <quantmin>25</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="industrial" />
+      <tag name="farm" />
+      <tag name="fishing" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_WD40_Large">
+      <nominal>4</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>2</min>
+      <quantmin>25</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="industrial" />
+      <tag name="farm" />
+      <tag name="fishing" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_Tireglue">
+      <nominal>5</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>1</min>
+      <quantmin>25</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="industrial" />
+      <tag name="farm" />
+      <tag name="fishing" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_GasBottle">
+      <nominal>3</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>1</min>
+      <quantmin>50</quantmin>
+      <quantmax>100</quantmax>
+      <cost>15</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="industrial" />
+      <tag name="farm" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_Sewingspool_Red">
+      <nominal>3</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>1</min>
+      <quantmin>25</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="farm" />
+      <tag name="fishing" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_Sewingspool_Blue">
+      <nominal>3</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>1</min>
+      <quantmin>25</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="farm" />
+      <tag name="fishing" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_Sewingspool_Green">
+      <nominal>3</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>1</min>
+      <quantmin>25</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="farm" />
+      <tag name="fishing" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_Isospray">
+      <nominal>5</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>3</min>
+      <quantmin>25</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="industrial" />
+      <tag name="fishing" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_IsoTape">
+      <nominal>5</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>3</min>
+      <quantmin>25</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="industrial" />
+      <tag name="farm" />
+      <tag name="fishing" />
+      <tag name="civilian" />
+   </type>
+   <type name="CJ_Weaponoil">
+      <nominal>5</nominal>
+      <lifetime>28800</lifetime>
+      <restock>0</restock>
+      <min>3</min>
+      <quantmin>25</quantmin>
+      <quantmax>100</quantmax>
+      <cost>50</cost>
+      <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+      <category name="tools" />
+      <tag name="farm" />
+      <tag name="fishing" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+</types>

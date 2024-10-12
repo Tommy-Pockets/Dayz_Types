@@ -1,0 +1,2523 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="SC_BeltBackpack_Desert">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="bags"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_BeltBackpack_Black">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="bags"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_BeltBackpack_Green">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="bags"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_BeltBackpack_Camo1">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="bags"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_BeltBackpack_Camo2">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="bags"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_BeltBackpack_Camo3">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="bags"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_BeltBackpack_Camo4">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="bags"/>
+        <tag name="military"/>
+    </type>
+    <type name="SC_LargeCampingBackpack_Black">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="bags"/>
+        <tag name="Coast"/>
+        <tag name="hunting"/>
+    </type>
+	<type name="SC_LargeCampingBackpack_Blue">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="bags"/>
+        <tag name="Coast"/>
+        <tag name="hunting"/>
+    </type>
+	<type name="SC_LargeCampingBackpack_Green">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="bags"/>
+        <tag name="Coast"/>
+        <tag name="hunting"/>
+    </type>
+	<type name="SC_LargeCampingBackpack_Orange">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="bags"/>
+        <tag name="Coast"/>
+        <tag name="hunting"/>
+    </type>
+	<type name="SC_LargeCampingBackpack_Pink">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="bags"/>
+        <tag name="Coast"/>
+        <tag name="hunting"/>
+    </type>
+	<type name="SC_LargeCampingBackpack_Red">
+        <nominal>1</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="bags"/>
+        <tag name="Coast"/>
+        <tag name="hunting"/>
+    </type>
+	<type name="SC_militaryBackpack_LightBrown">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="bags"/>
+		<tag name="military"/>
+    </type>
+	<type name="SC_militaryBackpack_Green">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="bags"/>
+		<tag name="military"/>
+    </type>
+	<type name="SC_militaryBackpack_Blue">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="bags"/>
+		<tag name="military"/>
+    </type>
+	<type name="SC_militaryBackpack_Black">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="bags"/>
+		<tag name="military"/>
+    </type>
+	<type name="SC_militaryBackpack_DarkBrown">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="bags"/>
+		<tag name="military"/>
+    </type>
+	<type name="SC_OldhuntingBackpack">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="bags"/>
+        <tag name="Coast"/>
+        <tag name="hunting"/>
+		<tag name="Farm"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_LeatherBackpack_White">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="bags"/>
+        <tag name="Coast"/>
+		<tag name="Farm"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_LeatherBackpack_Swamp">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="bags"/>
+        <tag name="Coast"/>
+		<tag name="Farm"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_LeatherBackpack_Khaki">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="bags"/>
+        <tag name="Coast"/>
+		<tag name="Farm"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_LeatherBackpack_Green">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="bags"/>
+        <tag name="Coast"/>
+		<tag name="Farm"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_LeatherBackpack_Brown">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="bags"/>
+        <tag name="Coast"/>
+		<tag name="Farm"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_LeatherBackpack_Black">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="bags"/>
+        <tag name="Coast"/>
+		<tag name="Farm"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_PortableBag">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="bags"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_FANTbackpacks">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type>	
+	<type name="SC_INSPbackpacks">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type>	
+	<type name="SC_INSPOxygen">
+        <nominal>0</nominal>
+        <lifetime>2700</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type>
+	<type name="SC_INSPgloves">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_SHAbackpacks">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type>
+	<type name="SC_FANTbelt_Blue">
+        <nominal>0</nominal>
+        <lifetime>4200</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type>
+	<type name="SC_FANTbelt_Black">
+        <nominal>0</nominal>
+        <lifetime>4200</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type>
+	<type name="SC_GROMglasses">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type>
+	<type name="SC_militaryGlasses">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>
+		<tag name="fishing"/>
+    </type>
+	<type name="SC_militaryGloves_Grey">
+        <nominal>2</nominal>
+        <lifetime>5600</lifetime>
+        <restock>250</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_militaryGloves_Black">
+        <nominal>2</nominal>
+        <lifetime>5600</lifetime>
+        <restock>250</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_militaryGloves_Blue">
+        <nominal>2</nominal>
+        <lifetime>5600</lifetime>
+        <restock>250</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="military"/>
+    </type> 
+	<type name="SC_militaryGloves_Brown">
+        <nominal>2</nominal>
+        <lifetime>5600</lifetime>
+        <restock>250</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="military"/>
+    </type>  
+	<type name="SC_militaryGloves_Green">
+        <nominal>2</nominal>
+        <lifetime>5600</lifetime>
+        <restock>250</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="military"/>
+    </type> 
+	<type name="SC_militaryGloves_Snake">
+        <nominal>2</nominal>
+        <lifetime>5600</lifetime>
+        <restock>250</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="military"/>
+    </type>  
+	<type name="SC_militaryGloves_Camo">
+        <nominal>2</nominal>
+        <lifetime>5600</lifetime>
+        <restock>250</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="military"/>
+    </type>  
+	<type name="SC_militaryGloves_BlackAndWhite">
+        <nominal>2</nominal>
+        <lifetime>5600</lifetime>
+        <restock>250</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="military"/>
+    </type>   
+	<type name="SC_OTSHgloves">
+        <nominal>0</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_BallisticHelmet_Black">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>100</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_BallisticHelmet_Green">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>100</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_BallisticHelmet_Yellow">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>100</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_BallisticMask">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="military"/>
+		<tag name="hunting"/>
+        <tag name="civilian"/>
+		<tag name="industrial"/>
+    </type>
+	<type name="SC_FirefightersHelmet">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>50</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="Firefighter"/>
+    </type>
+	<type name="SC_FIXHelmet">
+        <nominal>0</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type>
+	<type name="SC_GROMhood">
+        <nominal>0</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_InfernoCap_Black">
+        <nominal>3</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_InfernoCap_Red">
+        <nominal>3</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_InfernoCap_Blue">
+        <nominal>3</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_InfernoCap_Green">
+        <nominal>3</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_InfernoCap_Camo">
+        <nominal>3</nominal>
+        <lifetime>1800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_INKmasks">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_JapMask_1">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+        <tag name="civilian"/>
+		<tag name="industrial"/>
+        <tag name="farm"/>
+    </type>
+	<type name="SC_JapMask_2">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+        <tag name="civilian"/>
+		<tag name="industrial"/>
+        <tag name="farm"/>
+    </type>
+	<type name="SC_JapMask_3">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+        <tag name="civilian"/>
+		<tag name="industrial"/>
+        <tag name="farm"/>
+    </type>
+	<type name="SC_JapMask_4">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+        <tag name="civilian"/>
+		<tag name="industrial"/>
+        <tag name="farm"/>
+    </type>
+	<type name="SC_Keffiyeh_Green_Hood">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+		<tag name="military"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_Keffiyeh_Black_Hood">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+		<tag name="military"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_Keffiyeh_Brown_Hood">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+		<tag name="military"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_Keffiyeh_OrangeClutch_Hood">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+		<tag name="military"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_Keffiyeh_RedGrid_Hood">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+		<tag name="military"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_Keffiyeh_Green_Out_Hood">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+		<tag name="military"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_Keffiyeh_Black_Out_Hood">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+		<tag name="military"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_Keffiyeh_Brown_Out_Hood">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+		<tag name="military"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_Keffiyeh_OrangeClutch_Out_Hood">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+		<tag name="military"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_Keffiyeh_RedGrid_Out_Hood">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+		<tag name="military"/>
+        <tag name="civilian"/>
+    </type>	
+	<type name="SC_INSPmasks">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_FANTmasks_1">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_FANTmasks_2">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_FANTmasks_3">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_OTSHhood">
+        <nominal>0</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_OTSHhood_NoBlood">
+        <nominal>0</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_Paperbag">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+        <tag name="civilian"/>
+		<tag name="industrial"/>
+        <tag name="farm"/>
+    </type>
+	<type name="SC_PilotHelmet">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>50</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<tag name="military"/>
+    </type>
+	<type name="SC_Poncho_Black">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+        <tag name="civilian"/>
+		<tag name="industrial"/>
+        <tag name="farm"/>
+    </type>
+	<type name="SC_Poncho_Red">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+        <tag name="civilian"/>
+		<tag name="industrial"/>
+        <tag name="farm"/>
+    </type>
+	<type name="SC_Poncho_Blue">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+        <tag name="civilian"/>
+		<tag name="industrial"/>
+        <tag name="farm"/>
+    </type>
+	<type name="SC_Poncho_Purpurowy">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+        <tag name="civilian"/>
+		<tag name="industrial"/>
+        <tag name="farm"/>
+    </type>
+	<type name="SC_PonchoSniper_Haki1">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+		<tag name="military"/>
+    </type>
+	<type name="SC_PonchoSniper_Haki2">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+		<tag name="military"/>
+    </type>
+	<type name="SC_PonchoSniper_USP">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+		<tag name="military"/>
+    </type>
+	<type name="SC_PonchoSniper_Desert">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+		<tag name="military"/>
+    </type>
+	<type name="SC_PonchoSniper_Nightmare">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+		<tag name="military"/>
+    </type>
+	<type name="SC_PonchoSniper_Woodland1">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+		<tag name="military"/>
+    </type>
+	<type name="SC_PonchoSniper_Woodland2">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+		<tag name="military"/>
+    </type>
+	<type name="SC_SHAHelmet">
+        <nominal>0</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_SHAHelmet_NoMask">
+        <nominal>0</nominal>
+        <lifetime>2400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_SkullMask">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="military"/>
+		<tag name="hunting"/>
+        <tag name="civilian"/>
+		<tag name="industrial"/>
+    </type>
+	<type name="SC_Hood_with_mask_woodland">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>100</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<tag name="fishing"/>
+        <tag name="military"/>
+		<tag name="hunting"/>
+    </type>
+	<type name="SC_Hood_with_mask_usp">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>100</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<tag name="fishing"/>
+        <tag name="military"/>
+		<tag name="hunting"/>
+    </type>
+	<type name="SC_Hood_with_mask_black">
+        <nominal>2</nominal>
+        <lifetime>2400</lifetime>
+        <restock>100</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<tag name="fishing"/>
+        <tag name="military"/>
+		<tag name="hunting"/>
+    </type>
+	<type name="SC_Hood_with_mask_les">
+        <nominal>3</nominal>
+        <lifetime>2400</lifetime>
+        <restock>100</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<tag name="fishing"/>
+        <tag name="military"/>
+		<tag name="hunting"/>
+    </type>
+	<type name="SC_Hood_with_mask_snake">
+        <nominal>3</nominal>
+        <lifetime>2400</lifetime>
+        <restock>100</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<tag name="fishing"/>
+        <tag name="military"/>
+		<tag name="hunting"/>
+    </type>
+	<type name="SC_CombatPants_Black">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_CombatPants_Green">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_CombatPants_Haki1">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_CombatPants_Haki2">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_CombatPants_Snake">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_FIXpants_Green">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_FIXpants_Black">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_FANTpants">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_GROMpants">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type>
+	<type name="SC_INKpants">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type>
+	<type name="SC_InkognitoPants">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<tag name="military"/>
+    </type>
+	<type name="SC_PilotPants">
+        <nominal>6</nominal>
+        <lifetime>7200</lifetime>
+        <restock>150</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_ShabbyPants_Grey">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>50</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+        <tag name="civilian"/>
+		<tag name="industrial"/>
+    </type>
+	<type name="SC_ShabbyPants_Red">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>50</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+        <tag name="civilian"/>
+		<tag name="industrial"/>
+    </type>
+	<type name="SC_ShabbyPants_Blue">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>50</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="fishing"/>
+		<tag name="hunting"/>
+        <tag name="civilian"/>
+		<tag name="industrial"/>
+    </type>
+	<type name="SC_SHApants">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_SHINpants">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_SHINpants_Beige">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_SHINpants_EMR">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_SHINpants_Multicam">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_GothicBoots">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="Coast"/>
+        <tag name="hunting"/>
+		<tag name="Farm"/>
+        <tag name="hunting"/>
+		<tag name="Industrial"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_FANTshoes">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_FIXshoes">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_GROMshoes">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_HybridAssaultBoots_LightBrown">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="Coast"/>
+        <tag name="hunting"/>
+		<tag name="Farm"/>
+        <tag name="hunting"/>
+		<tag name="Industrial"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_HybridAssaultBoots_Black">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="Coast"/>
+        <tag name="hunting"/>
+		<tag name="Farm"/>
+        <tag name="hunting"/>
+		<tag name="Industrial"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_HybridAssaultBoots_Green">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="Coast"/>
+        <tag name="hunting"/>
+		<tag name="Farm"/>
+        <tag name="hunting"/>
+		<tag name="Industrial"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_HybridAssaultBoots_Camo1">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="Coast"/>
+        <tag name="hunting"/>
+		<tag name="Farm"/>
+        <tag name="hunting"/>
+		<tag name="Industrial"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_HybridAssaultBoots_Camo2">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="Coast"/>
+        <tag name="hunting"/>
+		<tag name="Farm"/>
+        <tag name="hunting"/>
+		<tag name="Industrial"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_HikingBoots">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="Coast"/>
+        <tag name="hunting"/>
+		<tag name="Farm"/>
+        <tag name="hunting"/>
+		<tag name="Industrial"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_HikingBootsLow_Natural">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="Coast"/>
+        <tag name="hunting"/>
+		<tag name="Farm"/>
+        <tag name="hunting"/>
+		<tag name="Industrial"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_HikingBootsLow_NaturalLight">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <tag name="Coast"/>
+        <tag name="hunting"/>
+		<tag name="Farm"/>
+        <tag name="hunting"/>
+		<tag name="Industrial"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_INKshoes">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_INSPshoes">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_SHAshoes">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_SHINshoes">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_SHINshoes_Dirt">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_SHINshoes_Beige">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_SHINshoes_EMR">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_SHINshoes_Multicam">
+        <nominal>0</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_FIXtops_Green">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_FIXtops_Black">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_FANTtops">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_GROMtops">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_Hoodie_Yellow">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_Hoodie_Green">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_Hoodie_Orange">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_Hoodie_Purple">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_Hoodie_Red">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_Hoodie_Turquoise">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+    </type>
+	<type name="SC_INKtops">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type>
+	<type name="SC_InkognitoTops">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<tag name="military"/>
+    </type>
+	<type name="SC_INSPtops_Black">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_INSPtops_Blue">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_INSPtops_Green">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_INSPtops_Orange">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_INSPtops_Red">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_INSPtops_White">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_INSPtops_Yellow">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_JacketWithShirt_1_White">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>50</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+	</type>
+	<type name="SC_JacketWithShirt_1_Blue">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>50</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+	</type>
+	<type name="SC_JacketWithShirt_1_Pink">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>50</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+	</type>
+	<type name="SC_JacketWithShirt_2_Blue">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>50</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+	</type>
+	<type name="SC_JacketWithShirt_2_Green">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>50</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+	</type>
+	<type name="SC_JacketWithShirt_2_Orange">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>50</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+	</type>
+	<type name="SC_JacketWithShirt_2_Red">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>50</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+	</type>
+	<type name="SC_LeatherJacket_Brown">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>50</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+	</type>
+	<type name="SC_LeatherJacket_Red">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>50</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+	</type>
+	<type name="SC_militaryJacket_Brown">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>
+        <value name="Tier3"/>
+	</type>
+	<type name="SC_militaryJacket_Gray">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>
+        <value name="Tier3"/>  
+	</type>
+	<type name="SC_OTSHtops">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_Pullover_Black">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>50</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+	</type>
+	<type name="SC_Pullover_Green">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>50</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+	</type>
+	<type name="SC_Pullover_Red">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>50</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+	</type>
+	<type name="SC_Pullover_Yellow">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>50</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="hunting"/>
+        <tag name="civilian"/>
+	</type>
+	<type name="SC_SHAtops">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_SHINtops">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_SHINtops_Beige">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_SHINtops_EMR">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_SHINtops_Multicam">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_ShortSleevedJjacket_Black">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_ShortSleevedJjacket_Blue">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_ShortSleevedJjacket_Brown">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_ShortSleevedJjacket_Green">
+        <nominal>2</nominal>
+        <lifetime>7200</lifetime>
+        <restock>150</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_BallisticVest">
+        <nominal>2</nominal>
+        <lifetime>5600</lifetime>
+        <restock>200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>		
+    </type>
+	<type name="SC_militaryUnloadingVest_Brown">
+        <nominal>2</nominal>
+        <lifetime>5600</lifetime>
+        <restock>200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_militaryUnloadingVest_Camo1">
+        <nominal>2</nominal>
+        <lifetime>5600</lifetime>
+        <restock>200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_militaryUnloadingVest_Camo2">
+        <nominal>2</nominal>
+        <lifetime>5600</lifetime>
+        <restock>200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>
+    </type>
+	<type name="SC_militaryUnloadingVest_Camo3">
+        <nominal>2</nominal>
+        <lifetime>5600</lifetime>
+        <restock>200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>		
+    </type>
+	<type name="SC_militaryUnloadingVest_Green">
+        <nominal>2</nominal>
+        <lifetime>5600</lifetime>
+        <restock>200</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>		
+    </type>
+	<type name="SC_ChalecoTactic">
+        <nominal>6</nominal>
+        <lifetime>5600</lifetime>
+        <restock>200</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="military"/>				
+    </type>
+	<type name="SC_FIXvest">
+        <nominal>0</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_FANTvest">
+        <nominal>0</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_OTSHvest_Orig">
+        <nominal>0</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_OTSHvest_Retext">
+        <nominal>0</nominal>
+        <lifetime>5600</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+    </type>
+	<type name="SC_Vest6B13_Black">
+        <nominal>2</nominal>
+        <lifetime>5600</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<tag name="military"/>
+    </type>
+	<type name="SC_Vest6B13_Pixel">
+        <nominal>2</nominal>
+        <lifetime>5600</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<tag name="military"/>
+    </type>
+	<type name="SC_Vest6B13_BlackPixel">
+        <nominal>2</nominal>
+        <lifetime>5600</lifetime>
+        <restock>300</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<tag name="military"/>
+    </type>
+</types>
+<!--
+////////////////////////////////////////////////////////////////////////////////////////RUS
+АВТОРСКОЕ ПРАВО:
+Авторское право принадлежит мне: titalyfi56 и никому более.
+Если вы читаете это и купили у другого человека, свяжитесь со мной в дискорде по этой ссылке:https://discord.gg/vzxuykVrVj
+(Это сообщение придумано, чтобы вы поняли, кто настоящий владелец и в случае чего знали, что вас обманули!)
+////////////////////////////////////////////////////////////////////////////////////////ENG
+COPYRIGHT:
+The copyright belongs to me: titalyfi56 and no one else.
+If you are reading this and bought from another person, contact me at the discord at this link:https://discord.gg/vzxuykVrVj
+(This message is made up so that you understand who the real owner is and in case of what you know that you were deceived!)
+-->

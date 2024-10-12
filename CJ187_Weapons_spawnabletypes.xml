@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawnabletypes>
+   <type name="CJ_G36_Black">
+      <attachments chance="1.0">
+         <item name="CJ_Mag_G36_20Rnd" chance="0.70" />
+         <item name="CJ_Mag_G36_30Rnd" chance="0.30" />
+         <item name="CJ_Mag_G36_100Rnd" chance="0.10" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_G36_Buttstock_Black" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_G36_HandguardStand_Black" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_MP5K_Black">
+      <attachments chance="1.0">
+         <item name="CJ_Mag_MP5_30Rnd_Waffle" chance="0.70" />
+         <item name="CJ_Mag_MP5_50Rnd" chance="0.30" />
+         <item name="CJ_Mag_MP5_100Rnd" chance="0.10" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_MP5_StockBttstck" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_MP5_sp5kHndgrd" chance="0.70" />
+         <item name="CJ_MP5_ProtoHndgrd" chance="0.50" />
+      </attachments>
+   </type>
+   <type name="CJ_MP5A_Black">
+      <attachments chance="1.0">
+         <item name="CJ_Mag_MP5_30Rnd_Waffle" chance="0.70" />
+         <item name="CJ_Mag_MP5_50Rnd" chance="0.30" />
+         <item name="CJ_Mag_MP5_100Rnd" chance="0.10" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_MP5_StockBttstck_Wood" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_MP5_Hndgrd_Wood" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_MP9_Black">
+      <attachments chance="1.0">
+         <item name="CJ_Mag_Mp9_20Rnd" chance="0.70" />
+         <item name="CJ_Mag_Mp9_30Rnd" chance="0.30" />
+         <item name="CJ_Mag_Mp9_50Rnd" chance="0.10" />
+      </attachments>
+      <attachments chance="0.5">
+         <item name="CJ_MP9_Suppressor_Black" chance="1.00" />
+      </attachments>
+      <attachments chance="0.5">
+         <item name="CJ_TacticalFlashlight_Black" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_TP9N_Black">
+      <attachments chance="1.0">
+         <item name="CJ_Mag_Mp9_20Rnd" chance="0.70" />
+         <item name="CJ_Mag_Mp9_30Rnd" chance="0.30" />
+         <item name="CJ_Mag_Mp9_50Rnd" chance="0.10" />
+      </attachments>
+      <attachments chance="0.5">
+         <item name="CJ_MP9_Suppressor_Black" chance="1.00" />
+      </attachments>
+      <attachments chance="0.5">
+         <item name="CJ_TacticalFlashlight_Black" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_G3_Black">
+      <attachments chance="1.0">
+         <item name="CJ_Mag_G3_10Rnd" chance="0.60" />
+         <item name="CJ_Mag_G3_15Rnd" chance="0.50" />
+         <item name="CJ_Mag_G3_20Rnd" chance="0.40" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_G3_Handguard_Black" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_G3_Buttstock_Black" chance="1.00" />
+      </attachments>
+      <attachments chance="0.5">
+         <item name="CJ_G3_Suppressor_Black" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_AKM_Stock">
+      <attachments chance="1.0">
+         <item name="CJ_Mag_AKM_30rnd" chance="0.60" />
+         <item name="CJ_Mag_AKM_40rnd" chance="0.50" />
+         <item name="Mag_AKM_Drum75Rnd" chance="0.40" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="AK_PlasticBttstck" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="AK_PlasticHndgrd" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_AKM_DustCover" chance="1.00" />
+      </attachments>
+      <attachments chance="0.5">
+         <item name="AK_Suppressor" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_AK74_Stock">
+      <attachments chance="1.0">
+         <item name="Mag_AK74_30Rnd" chance="0.60" />
+         <item name="Mag_AK74_45Rnd" chance="0.50" />
+         <item name="CJ_Mag_AK74_60Rnd" chance="0.40" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="AK_WoodBttstck" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="AK74_Hndgrd" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_AK74_DustCover" chance="1.00" />
+      </attachments>
+      <attachments chance="0.5">
+         <item name="AK_Suppressor" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_AKS74U_Stock">
+      <attachments chance="1.0">
+         <item name="Mag_AK74_30Rnd" chance="0.60" />
+         <item name="Mag_AK74_45Rnd" chance="0.50" />
+         <item name="CJ_Mag_AK74_60Rnd" chance="0.40" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="AK_WoodBttstck" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_AKS_Hndgrd_Wood_1" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_AKS_DustCover" chance="1.00" />
+      </attachments>
+      <attachments chance="0.5">
+         <item name="AK_Suppressor" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_AK101_Stock">
+      <attachments chance="1.0">
+         <item name="Mag_AK101_30Rnd" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="AK_PlasticBttstck" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="AK_PlasticHndgrd" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_AK74_DustCover" chance="1.00" />
+      </attachments>
+      <attachments chance="0.5">
+         <item name="AK_Suppressor" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_AK105_Stock">
+      <attachments chance="1.0">
+         <item name="Mag_AK74_30Rnd" chance="0.60" />
+         <item name="Mag_AK74_45Rnd" chance="0.50" />
+         <item name="CJ_Mag_AK74_60Rnd" chance="0.40" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="AK_WoodBttstck" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="AK74_Hndgrd" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_AK74_DustCover" chance="1.00" />
+      </attachments>
+      <attachments chance="0.5">
+         <item name="AK_Suppressor" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_MPX_Black">
+      <attachments chance="1.0">
+         <item name="CJ_Mag_MPX_30Rnd" chance="0.60" />
+         <item name="CJ_Mag_MPX_35Rnd" chance="0.50" />
+         <item name="CJ_Mag_MPX_50Rnd" chance="0.40" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_MPX_Buttstock" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_MPX_Hndgrd_Ris1" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="M4_T3NRDSOptic" chance="1.00" />
+      </attachments>
+      <attachments chance="0.5">
+         <item name="PistolSuppressor" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_Mossberg590">
+      <attachments chance="1.0">
+         <item name="CJ_Mossberg590_RIS" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_Mossberg590_Short">
+      <attachments chance="1.0">
+         <item name="CJ_Mossberg590_RIS" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_Remington870">
+      <attachments chance="1.0">
+         <item name="CJ_Mossberg590_RIS" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_TOZ106_Long">
+      <attachments chance="1.0">
+         <item name="CJ_Mag_TOZ106_5Rnd" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_TOZ106_Mosin">
+      <attachments chance="1.0">
+         <item name="CJ_Mag_TOZ106_5Rnd" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_SL8_Black">
+      <attachments chance="1.0">
+         <item name="CJ_Mag_SL8_5Rnd" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_G36_HandguardLong_Black" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_VortexOptic_Black" chance="1.00" />
+      </attachments>
+      <attachments chance="0.5">
+         <item name="M4_Suppressor" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_VPO101">
+      <attachments chance="1.0">
+         <item name="CJ_Mag_VPO101_10Rnd" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_VPO101_DustCover" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="PSO1Optic" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_VPO101_SVD">
+      <attachments chance="1.0">
+         <item name="CJ_Mag_VPO101_10Rnd" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_VPO101_DustCover" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="PSO1Optic" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_AR15_9mm_Black">
+      <attachments chance="1.0">
+         <item name="CJ_Mag_Glock_30Rnd" chance="0.50" />
+         <item name="CJ_Mag_Glock_50Rnd" chance="0.40" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="M4_RISHndgrd_Black" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_M4_Buttstock_Black" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="M4_T3NRDSOptic" chance="1.00" />
+      </attachments>
+      <attachments chance="0.5">
+         <item name="M4_Suppressor" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_AR57_Black">
+      <attachments chance="1.0">
+         <item name="CJ_Mag_P90_50Rnd" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="CJ_M4_Buttstock_Black" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="M4_T3NRDSOptic" chance="1.00" />
+      </attachments>
+   </type>
+   <type name="CJ_Scout_Black">
+      <attachments chance="1.0">
+         <item name="Mag_Scout_5Rnd" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="M4_T3NRDSOptic" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="M4_Suppressor" chance="0.50" />
+      </attachments>
+   </type>
+   <type name="CJ_Scout_Camo">
+      <attachments chance="1.0">
+         <item name="Mag_Scout_5Rnd" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="M4_T3NRDSOptic" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="M4_Suppressor" chance="0.50" />
+      </attachments>
+   </type>
+   <type name="CJ_Scout_Wood">
+      <attachments chance="1.0">
+         <item name="Mag_Scout_5Rnd" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="M4_T3NRDSOptic" chance="1.00" />
+      </attachments>
+      <attachments chance="1.0">
+         <item name="M4_Suppressor" chance="0.50" />
+      </attachments>
+   </type>
+</spawnabletypes>

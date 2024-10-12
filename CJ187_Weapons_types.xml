@@ -1,0 +1,1911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<types>
+   <!--G36A3-->
+   <type name="CJ_Mag_G36_100Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_G36_30Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_G36_20Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_G36_Black">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_G36_Buttstock_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_G36_HandguardStandRIS_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_G36_HandguardLongRIS_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_G36_HandguardShortRIS_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_G36_HandguardStand_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_G36_HandguardLong_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_G36_HandguardShort_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <!--MP5-->
+   <type name="CJ_MP5_StockBttstck">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MP5_StockBttstck_Wood">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MP5_Hndgrd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MP5_Hndgrd_Slim">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MP5_Hndgrd_Wood">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MP5_Hndgrd_Vented">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MP5_Hndgrd_Light">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MP5_Hndgrd_Ris">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MP5_ProtoHndgrd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MP5_sp5kHndgrd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MP5_RailMount">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MP5_RailMountLong">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MP5K_Black">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MP5A_Black">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Mag_MP5_30Rnd_Waffle">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Mag_MP5_50Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Mag_MP5_100Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>30</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <!--MP9 / TP9-->
+   <type name="CJ_MP9_Suppressor_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Mag_Mp9_15Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Mag_Mp9_20Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Mag_Mp9_30Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Mag_Mp9_50Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MP9_Black">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_TP9N_Black">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <!--G3-->
+   <type name="CJ_G3_Handguard_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_G3_Buttstock_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_G3SG_Handguard_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_G3_Suppressor_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_G3_5Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_G3_10Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_G3_15Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_G3_20Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_G3_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <!--AKM-->
+   <type name="CJ_AK_Buttstockadapter">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_AKM_DustCover">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_AKM_DustCover_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_AKM_DustCoverRIS">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_AKM_DustCoverRIS_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_AKM_30rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_AKM_10rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_AKM_20rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_AKM_40rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_AKM_Alu_10rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_AKM_Alu_20rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_AKM_Poly_10rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_AKM_Poly_20rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_AKM_Stock">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <!--AK74-->
+   <type name="CJ_AK74_DustCover">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_AK74_DustCoverRIS">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_AK74_60Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_AK74_60Rnd_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_AK74_Stock">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <!--AKS74U-->
+   <type name="CJ_AKS_DustCover">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_AKS_DustCoverRIS">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_AKS_Hndgrd_Wood_1">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_AKS_Hndgrd_Wood_2">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_AKS_Hndgrd_Plastic_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_AKS_Hndgrd_Wood_Ris_1">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_AKS_Hndgrd_Wood_Ris_2">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_AK_Buttstock_Magpull">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_AKS74U_Stock">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_AKS74UN_Stock">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <!--AK101-->
+   <type name="CJ_AK101_Stock">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <!--AK105-->
+   <type name="CJ_AK105_Stock">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <!--VEPR136-->
+   <type name="CJ_Vepr136_Stock">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <!--VEPR209-->
+   <type name="CJ_Vepr209_Stock">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <!--TKM366-->
+   <type name="CJ_Mag_TKM_366_10rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_Mag_TKM_366_20rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_Mag_TKM_366_30rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_Mag_TKM_366_40rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>40</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_TKM_366_Alu_10rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_Mag_TKM_366_Alu_20rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_Mag_TKM_366_Poly_10rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_Mag_TKM_366_Poly_20rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_Ammo_366">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_AmmoBox_366_20rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+      <tag name="military" />
+   </type>
+   <!--MPX-->
+   <type name="CJ_MPX_Buttstock">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MPX_ButtstockAdapter">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MPX_Hndgrd_Ris1">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MPX_Hndgrd_Ris2">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MPX_Hndgrd_Ris3">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MPX_Hndgrd_Ris4">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_MPX_Black">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <!--MOSSBERG-->
+   <type name="CJ_Mossberg590_RIS">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Mossberg590">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Mossberg590_Short">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Remington870">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <!--TOZ-->
+   <type name="CJ_Toz106_Bttstck">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_TOZ106_Short">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_TOZ106_Long">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_TOZ106_Mosin">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_Mag_TOZ106_2Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_Mag_TOZ106_4Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>20</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_Mag_TOZ106_5Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <!--GLOCK19-->
+   <type name="CJ_Mag_Glock_30Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="police" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_Glock_50Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="police" />
+      <tag name="military" />
+   </type>
+   <!--SL8-->
+   <type name="CJ_SL8_Black">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_SL8_5Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <!--VPO101-->
+   <type name="CJ_VPO101_DustCover">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_VPO101_DustCover_RIS">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_VPO101">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_VPO101_SVD">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_Mag_VPO101_5Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_VPO101_10Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <!--M4-->
+   <type name="CJ_M4_Buttstock_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_MLOK_Buttstock_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_M4_Handguard_Ris">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_M9A1_Bayonet_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_CMAG_10Rnd_multicam">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_CMAG_20Rnd_multicam">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_CMAG_30Rnd_multicam">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_CMAG_40Rnd_multicam">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Mag_CMAG_40Rnd_grey">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <!--AR15-->
+   <type name="CJ_AR15_9mm_Black">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Mag_Glock_10Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_AR57_Black">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Compensator_57x28">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Mag_P90_50Rnd">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_AmmoBox_57x28_25rnd">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_AmmoBox_57x28AP_25rnd">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Ammo_57x28">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Ammo_57x28AP">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Mag_Makarov_8Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Mag_Makarov_12Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Mag_Makarov_15Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Mag_Makarov_80Rnd">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>10</quantmin>
+      <quantmax>50</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+      <tag name="police" />
+   </type>
+   <type name="CJ_Scout_Black">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="police" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_Scout_Camo">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="hunting" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_Scout_Wood">
+      <nominal>3</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>1</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+   </type>
+   <type name="CJ_Mosin_Brahmit_Suppressor">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_PEQ2_LaserLight_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_PEQ15_LaserLight_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_PEQ16_LaserLight_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_TacticalFlashlight_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_RailCover_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_EotechOptic">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_EotechOptic_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_L3EotechOptic_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+   <type name="CJ_VortexOptic_Black">
+      <nominal>0</nominal>
+      <lifetime>7200</lifetime>
+      <restock>1800</restock>
+      <min>0</min>
+      <quantmin>-1</quantmin>
+      <quantmax>-1</quantmax>
+      <cost>100</cost>
+      <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+      <category name="weapons" />
+      <tag name="military" />
+   </type>
+</types>
